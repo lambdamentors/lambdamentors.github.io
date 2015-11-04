@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Tamara and Jay Report"
+title:  "June 16th Report: Tamara and Jay"
 date:   2015-06-17 20:37:47 -0500
-categories: jekyll update
+categories: mentor reports
 tags: tamara_and_jay
 ---
 
