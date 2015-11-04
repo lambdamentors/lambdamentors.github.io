@@ -17,7 +17,7 @@ that enrich learners’ expanding understanding of computer science.
 
 In return for sharing their valuable time and experience, Lambda Mentors facilitates donations
 to a charity of the mentor’s choice. Lambda Mentors seeks out [sponsor
-organization](/sponsors.html)
+organization](/sponsors)
 who agree to donate $50 to the charity of the mentor’s choice for
 each hour of mentoring. In this way, mentors, while not compensated directly, can give back,
 both through charitable contributions and through guiding the development of the learners
