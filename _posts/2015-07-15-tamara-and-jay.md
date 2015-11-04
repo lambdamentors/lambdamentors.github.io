@@ -3,7 +3,7 @@ layout: post
 title:  "July 9th Report: Tamara and Jay"
 date:   2015-07-15 20:37:47 -0500
 categories: mentor reports
-tags: tamara_and_jay
+tags: tamara_and_jay safeconnections sbscreatix
 ---
 
 From Jay: July 15, 2015

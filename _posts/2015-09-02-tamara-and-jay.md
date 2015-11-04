@@ -3,7 +3,7 @@ layout: post
 title:  "August 24th Report: Tamara and Jay"
 date:   2015-09-02 20:37:47 -0500
 categories: mentor reports
-tags: tamara_and_jay
+tags: tamara_and_jay safeconnections
 ---
 
 From Jay: September 2, 2015
