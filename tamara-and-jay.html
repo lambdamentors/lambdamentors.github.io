@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<img src="images/first_pair.jpg" alt="Tamara and Jay" />
+
+<h4>Tamara and Jay Reports </h4>
+
+<ul>
+  {% for post in site.tags.tamara_and_jay %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
