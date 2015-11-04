@@ -2,22 +2,24 @@
 layout: default
 ---
 
+<div class="intro">
+  Lambda Mentors is a program that generates charitable donations by incentivizing the mentoring of people trying to enter the field of professional software development. Lambda Mentors is part of the <a href="http://lambdalounge.org">Lambda Lounge</a>, a tech user group in St. Louis, MO, focused on dynamic and functional programming languages and paradigms. Lambda Mentors works with <a href="http://launchcode.org">Launch Code</a> and the <a href="http://www.launchcode.org/coder_girl">Coder Girl</a> initiative to find learners who are ready to take the next step in pursuit of a career in software development.
+</div>
+<br/>
+<br/>
+<br/>
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Progress Reports</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
+
