@@ -3,7 +3,7 @@ layout: post
 title:  "June 16th Report: Tamara and Jay"
 date:   2015-06-17 20:37:47 -0500
 categories: mentor reports
-tags: tamara_and_jay safeconnections
+tags: tamara_and_jay safeconnections neteffects
 ---
 
 From Jay: June 17, 2015
